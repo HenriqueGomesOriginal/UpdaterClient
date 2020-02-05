@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (EvaUpdate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Updater.cpp
+c:\users\henrique\documents\evaupdate\updater.cpp(80): warning C4101: 'we': unreferenced local variable
+c:\users\henrique\documents\evaupdate\updater.cpp(106): warning C4101: 'ex': unreferenced local variable
+  UpdaterForm.cpp
+c:\users\henrique\documents\evaupdate\updaterform.h(35): warning C4101: 'ex': unreferenced local variable
+c:\users\henrique\documents\evaupdate\updaterform.h(39): warning C4101: 'ex': unreferenced local variable
+  Generating Code...
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  Updater.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  EvaUpdate.vcxproj -> C:\Users\Henrique\Documents\EvaUpdate\Debug\UpdaterClient.exe
